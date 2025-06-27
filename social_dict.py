@@ -74,10 +74,6 @@ def Combination():
                     dictionaryFile.write(specialList[e] + inforlist[a] + inforlist[d] + '\n')
 
 
-def StartSocialDict():
-    Combination()
-
-
 if __name__ == '__main__':
     Combination()
 
